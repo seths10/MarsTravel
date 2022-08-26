@@ -7,6 +7,8 @@ import org.junit.Test;
 
 public class SeatTest {
 
+    //this code creates a stardelino spaceship and then
+    // books a seat for a human object
     @Test
     public void checkCapacity(){
         Stardelino spaceship = new Stardelino();
