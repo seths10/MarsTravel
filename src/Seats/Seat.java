@@ -14,6 +14,6 @@ public abstract class Seat {
     }
 
     public void getMeal(){
-        System.out.println("Seat number " + getID() + " would receive a meal");
+        System.out.println("Seat number " + getID() + " would received meal");
     }
 }
